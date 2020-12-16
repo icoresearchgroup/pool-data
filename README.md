@@ -2,4 +2,4 @@
 
 
 Shortend URLS:
-https://git.io/JLGAm
+https://bit.ly/ico_research_group_metadata_2
